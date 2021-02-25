@@ -2,73 +2,80 @@
   "users": [
     {
       "id": 3,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 4,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 5,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 6,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 7,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 8,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 9,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 10,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 11,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
     },
     {
       "id": 12,
-      "name": "json-server",
-      "title": "title",
-      "author": "typicode",
-      "published_at": "3-12-2019"
+      "email": "json-server",
+      "name": "name",
+      "avatar": "typicode",
+      "googleId": "3-12-2019"
+    },
+    {
+      "email": "bacdo0122@gmail.com",
+      "name": "12",
+      "avatar": "21",
+      "googleId": "21",
+      "id": 13
     }
   ],
   "comments": [
